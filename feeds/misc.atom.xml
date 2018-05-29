@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Notes ... - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2018-05-28T20:48:00-04:00</updated><entry><title>My first post</title><link href="/My-first-post.html" rel="alternate"></link><published>2018-05-28T20:48:00-04:00</published><updated>2018-05-28T20:48:00-04:00</updated><author><name>Tom Barron</name></author><id>tag:None,2018-05-28:/My-first-post.html</id><summary type="html">&lt;p&gt;Just a start, again&lt;/p&gt;</summary><content type="html">&lt;p&gt;I started something here before, but am starting all over again, again, 
+now.&lt;/p&gt;
+&lt;p&gt;These days I am working on OpenStack manila, a project that offers file 
+share infrastructure as a service.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Manila Folders" src="images/manila-folders.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Many thanks to Renata's 
+&lt;a href="https://rsip22.github.io/blog/create-a-blog-with-pelican-and-github-pages.html"&gt;blog&lt;/a&gt;
+for getting me started with github pages and pelican.&lt;/p&gt;</content><category term="first"></category><category term="misc"></category></entry></feed>
